@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋! My name is Mallepula Sai Chiru and I'm a full stack .Net Developer </h1>
+<h1 align="center">Hi 👋! My name is Mallepula Sai Chiru and </br> I'm a full stack .Net Developer </h1>
 
 # 💻 Tech Stack:
 <div align="left">
