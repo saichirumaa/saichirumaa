@@ -1,4 +1,4 @@
-<img width="1747" height="913" alt="image" src="https://github.com/user-attachments/assets/4991ad94-d651-4e5f-b19b-a38843bfb92e" />## Hi there 👋
+
 
 <!--
 **saichirumaa/saichirumaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
